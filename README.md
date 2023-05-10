@@ -1,3 +1,4 @@
 # git_test
 first github test
-Hello Odin
+Hello Odin, this is a vsc commit test
+
